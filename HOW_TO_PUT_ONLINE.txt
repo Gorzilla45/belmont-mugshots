@@ -1,0 +1,124 @@
+===============================================
+  HOW TO PUT THIS APP ONLINE
+  (so you can open it on your phone)
+  Using Render.com – free
+===============================================
+
+This takes about 10–15 minutes the first time.
+After that you just use the link on your phone.
+
+-----------------------------------------------
+STEP 1 – Create a free Render account
+-----------------------------------------------
+
+1. On your computer or phone, go to:
+   https://render.com
+
+2. Click “Get Started” or “Sign Up”.
+
+3. Sign up with your Google account or email
+   (Google is easiest).
+
+4. Confirm your email if asked.
+
+-----------------------------------------------
+STEP 2 – Put the app files on GitHub (free)
+-----------------------------------------------
+
+Render needs the files on GitHub.
+
+Easiest way:
+
+1. Go to https://github.com and sign up
+   (or log in if you already have an account).
+
+2. Click the “+” in the top right → “New repository”.
+
+3. Name it:  belmont-mugshots
+   Leave everything else as default.
+   Click “Create repository”.
+
+4. On the next page, click
+   “uploading an existing file”.
+
+5. Drag ALL the files from the
+   belmont_mugshot_app folder into the
+   upload area (app.py, requirements.txt,
+   Procfile, templates folder, etc.).
+
+6. Click “Commit changes”.
+
+-----------------------------------------------
+STEP 3 – Connect the app to Render
+-----------------------------------------------
+
+1. Go back to https://render.com and log in.
+
+2. Click “New +” → “Web Service”.
+
+3. Click “Connect a repository”
+   and choose the “belmont-mugshots”
+   repository you just created.
+   (You may need to give Render permission
+   the first time.)
+
+4. Fill in these settings:
+
+   Name:          belmont-mugshots
+   Region:        (leave default)
+   Branch:        main
+   Runtime:       Python
+   Build Command: pip install -r requirements.txt
+   Start Command: gunicorn app:app
+
+5. Click “Create Web Service”.
+
+6. Wait 2–5 minutes while it builds.
+   You will see logs scrolling.
+   When it says “Live” or “Deploy live”,
+   you are done.
+
+-----------------------------------------------
+STEP 4 – Get your phone link
+-----------------------------------------------
+
+On the Render page for your service you will
+see a URL that looks like:
+
+   https://belmont-mugshots.onrender.com
+
+That is your permanent link.
+
+- Bookmark it on your phone.
+- Open it any time to check for new inmates
+  and copy posts.
+
+-----------------------------------------------
+IMPORTANT NOTES
+-----------------------------------------------
+
+• Free Render services “sleep” after about
+  15 minutes of no one using them.
+  The first time you open the link after
+  it has slept, it may take 30–60 seconds
+  to wake up. Just wait.
+
+• The automatic hourly check only works
+  while the service is awake.
+  On free plan you will mostly click the
+  “Check for New Inmates Now” button
+  yourself when you open the page.
+
+• The app is public (anyone with the link
+  can see it). Do not put private passwords
+  in it.
+
+-----------------------------------------------
+NEED HELP?
+-----------------------------------------------
+
+If you get stuck on any step, tell me
+exactly which step number and what you
+see on the screen, and I will guide you.
+
+===============================================

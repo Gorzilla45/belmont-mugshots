@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "cfb527f8635d",
+    "inmate": {
+      "id": "cfb527f8635d",
+      "jail_id": "200012941",
+      "name": "Ault, Joshua Lee",
+      "charges": [
+        "DOMESTIC VIOLENCE",
+        "PERSISTENT DISORDERLY CONDUCT",
+        "ENDANGERING CHILDREN"
+      ],
+      "book_date": "09/18/2026",
+      "agency": "Barnesville Police Department",
+      "photo": "mugshots/cfb527f8635d.jpg",
+      "scraped_at": "2026-09-27T02:00:29.637500"
+    },
+    "post_text": "Recently booked:\n\nName: Ault, Joshua Lee\nBooked: 09/18/2026\nArresting Agency: Barnesville Police Department\nCharge(s): DOMESTIC VIOLENCE, PERSISTENT DISORDERLY CONDUCT, ENDANGERING CHILDREN (Domestic violence offense under Ohio law.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.685255",
+    "expires_at": "2026-09-28T02:00:29.685263",
+    "status": "discarded"
+  },
+  {
+    "id": "b04880790027",
+    "inmate": {
+      "id": "b04880790027",
+      "jail_id": "200016979",
+      "name": "Bass, Daquain James",
+      "charges": [
+        "OBSTRUCTING JUSTICE",
+        "RECEIVING STOLEN PROPERTY",
+        "THEFT",
+        "FAILURE TO APPEAR/DRUG POSSESSION",
+        "POSSESSION OF DRUGS - SCHEDULE I, II"
+      ],
+      "book_date": "08/28/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/b04880790027.jpg",
+      "scraped_at": "2026-09-27T02:00:29.638166"
+    },
+    "post_text": "Recently booked:\n\nName: Bass, Daquain James\nBooked: 08/28/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): OBSTRUCTING JUSTICE, RECEIVING STOLEN PROPERTY, THEFT, FAILURE TO APPEAR/DRUG POSSESSION and others (Theft-related offense.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.696357",
+    "expires_at": "2026-09-28T02:00:29.696368",
+    "status": "discarded"
+  },
+  {
+    "id": "5df953371745",
+    "inmate": {
+      "id": "5df953371745",
+      "jail_id": "20060127",
+      "name": "Baxter, Justin Allen",
+      "charges": [
+        "THEFT (PETTY)",
+        "ASSAULT",
+        "CONVEY PROHIBITED ITEMS TO DETENTION FAC",
+        "TAMPERING WITH EVIDENCE",
+        "ASSAULT ON POLICE OFFICER",
+        "HARASSMENT WITH BODILY SUBSTANCE",
+        "POSSESSION OF DRUGS - SCHEDULE I, II"
+      ],
+      "book_date": "09/14/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/5df953371745.jpg",
+      "scraped_at": "2026-09-27T02:00:29.639032"
+    },
+    "post_text": "Recently booked:\n\nName: Baxter, Justin Allen\nBooked: 09/14/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): THEFT (PETTY), ASSAULT, CONVEY PROHIBITED ITEMS TO DETENTION FAC, TAMPERING WITH EVIDENCE and others (Theft-related offense.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.706456",
+    "expires_at": "2026-09-28T02:00:29.706466",
+    "status": "discarded"
+  },
+  {
+    "id": "2ce7b4658a10",
+    "inmate": {
+      "id": "2ce7b4658a10",
+      "jail_id": "200022075",
+      "name": "Bishop, Charles Todd",
+      "charges": [
+        "THEFT (PETTY)",
+        "CRIMINAL TRESPASS",
+        "PERSISTENT DISORDERLY CONDUCT"
+      ],
+      "book_date": "08/26/2026",
+      "agency": "Prisoner Transport Services",
+      "photo": "mugshots/2ce7b4658a10.jpg",
+      "scraped_at": "2026-09-27T02:00:29.639653"
+    },
+    "post_text": "Recently booked:\n\nName: Bishop, Charles Todd\nBooked: 08/26/2026\nArresting Agency: Prisoner Transport Services\nCharge(s): THEFT (PETTY), CRIMINAL TRESPASS, PERSISTENT DISORDERLY CONDUCT (Theft-related offense.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.716096",
+    "expires_at": "2026-09-28T02:00:29.716106",
+    "status": "discarded"
+  },
+  {
+    "id": "7c8664c09742",
+    "inmate": {
+      "id": "7c8664c09742",
+      "jail_id": "200018468",
+      "name": "Bologna, Justin Nmn",
+      "charges": [
+        "DRIVING UNDER THE INFLUENCE"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/7c8664c09742.jpg",
+      "scraped_at": "2026-09-27T02:00:29.640253"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Bologna, Justin Nmn\nBooked: 09/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DRIVING UNDER THE INFLUENCE (Operating a vehicle under the influence.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.728067",
+    "expires_at": "2026-09-28T02:00:29.728078",
+    "status": "discarded"
+  },
+  {
+    "id": "44b89ed6d1ab",
+    "inmate": {
+      "id": "44b89ed6d1ab",
+      "jail_id": "20072442",
+      "name": "Boyd, Austin Cody",
+      "charges": [
+        "MENACING BY STALKING",
+        "CRIMINAL MISCHIEF",
+        "RESISTING ARREST",
+        "BURGLARY",
+        "FAILURE TO APPEAR - UNAUTHORIZED USE OF MOTOR VEHICLE",
+        "ATTEMPT/UNAUTHORIZED USE OF VEHICLE"
+      ],
+      "book_date": "09/16/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/44b89ed6d1ab.jpg",
+      "scraped_at": "2026-09-27T02:00:29.640854"
+    },
+    "post_text": "Recently booked:\n\nName: Boyd, Austin Cody\nBooked: 09/16/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): MENACING BY STALKING, CRIMINAL MISCHIEF, RESISTING ARREST, BURGLARY and others\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.738942",
+    "expires_at": "2026-09-28T02:00:29.738952",
+    "status": "discarded"
+  },
+  {
+    "id": "a112d481ff99",
+    "inmate": {
+      "id": "a112d481ff99",
+      "jail_id": "200021977",
+      "name": "Brand Jr, Guy Davis",
+      "charges": [
+        "FAILURE TO COMPLY WITH A POLICE OFFICER",
+        "FELONIOUS ASSAULT",
+        "DISORDERLY CONDUCT",
+        "RESISTING ARREST",
+        "RECEIVING STOLEN PROPERTY",
+        "OBSTRUCTING JUSTICE",
+        "FAILURE TO COMPLY ORDER POLICE OFFICER",
+        "FELONIOUS ASSAULT",
+        "FAILURE TO COMPLY ORDER POLICE OFFICER"
+      ],
+      "book_date": "05/26/2026",
+      "agency": "Richland Township Police Department",
+      "photo": "mugshots/a112d481ff99.jpg",
+      "scraped_at": "2026-09-27T02:00:29.641458"
+    },
+    "post_text": "New booking reported:\n\nName: Brand Jr, Guy Davis\nBooked: 05/26/2026\nArresting Agency: Richland Township Police Department\nCharge(s): FAILURE TO COMPLY WITH A POLICE OFFICER, FELONIOUS ASSAULT, DISORDERLY CONDUCT, RESISTING ARREST and others\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.751160",
+    "expires_at": "2026-09-28T02:00:29.751170",
+    "status": "discarded"
+  },
+  {
+    "id": "4cced469e403",
+    "inmate": {
+      "id": "4cced469e403",
+      "jail_id": "200021639",
+      "name": "Browder, Sandton Valentine",
+      "charges": [
+        "MURDER",
+        "MURDER",
+        "HAVE WEAPON UNDER DISABILITY"
+      ],
+      "book_date": "01/16/2026",
+      "agency": "Bellaire Police Department",
+      "photo": "mugshots/4cced469e403.jpg",
+      "scraped_at": "2026-09-27T02:00:29.642060"
+    },
+    "post_text": "Recently booked:\n\nName: Browder, Sandton Valentine\nBooked: 01/16/2026\nArresting Agency: Bellaire Police Department\nCharge(s): MURDER, MURDER, HAVE WEAPON UNDER DISABILITY\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.762580",
+    "expires_at": "2026-09-28T02:00:29.762603",
+    "status": "discarded"
+  },
+  {
+    "id": "4d7ba1f919c5",
+    "inmate": {
+      "id": "4d7ba1f919c5",
+      "jail_id": "20122565",
+      "name": "Brown, Tyler Sidney",
+      "charges": [
+        "FAILURE TO APPEAR",
+        "OBSTRUCTING OFFICIAL BUSINESS"
+      ],
+      "book_date": "04/12/2026",
+      "agency": "Martins Ferry Police Department",
+      "photo": "mugshots/4d7ba1f919c5.jpg",
+      "scraped_at": "2026-09-27T02:00:29.642648"
+    },
+    "post_text": "Recently booked:\n\nName: Brown, Tyler Sidney\nBooked: 04/12/2026\nArresting Agency: Martins Ferry Police Department\nCharge(s): FAILURE TO APPEAR, OBSTRUCTING OFFICIAL BUSINESS\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.776594",
+    "expires_at": "2026-09-28T02:00:29.776619",
+    "status": "discarded"
+  },
+  {
+    "id": "7290d9cfce8d",
+    "inmate": {
+      "id": "7290d9cfce8d",
+      "jail_id": "200022050",
+      "name": "Campbell, Sean Michael",
+      "charges": [
+        "DOMESTIC VIOLENCE"
+      ],
+      "book_date": "09/18/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/7290d9cfce8d.jpg",
+      "scraped_at": "2026-09-27T02:00:29.643268"
+    },
+    "post_text": "New booking reported:\n\nName: Campbell, Sean Michael\nBooked: 09/18/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DOMESTIC VIOLENCE (Domestic violence offense under Ohio law.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.788375",
+    "expires_at": "2026-09-28T02:00:29.788386",
+    "status": "discarded"
+  },
+  {
+    "id": "c720d0d1e992",
+    "inmate": {
+      "id": "c720d0d1e992",
+      "jail_id": "20131948",
+      "name": "Clark, Cale Robert",
+      "charges": [
+        "POSSESSION OF DRUGS - SCHEDULE I, II",
+        "AGG MENACING"
+      ],
+      "book_date": "09/14/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/c720d0d1e992.jpg",
+      "scraped_at": "2026-09-27T02:00:29.643853"
+    },
+    "post_text": "Recently booked:\n\nName: Clark, Cale Robert\nBooked: 09/14/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): POSSESSION OF DRUGS - SCHEDULE I, II, AGG MENACING\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.810002",
+    "expires_at": "2026-09-28T02:00:29.810014",
+    "status": "discarded"
+  },
+  {
+    "id": "06554663508b",
+    "inmate": {
+      "id": "06554663508b",
+      "jail_id": "200018787",
+      "name": "Clark, William Edward",
+      "charges": [
+        "DRIVING UNDER SUSPENSION"
+      ],
+      "book_date": "09/07/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/06554663508b.jpg",
+      "scraped_at": "2026-09-27T02:00:29.644459"
+    },
+    "post_text": "New booking reported:\n\nName: Clark, William Edward\nBooked: 09/07/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DRIVING UNDER SUSPENSION\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.820018",
+    "expires_at": "2026-09-28T02:00:29.820028",
+    "status": "discarded"
+  },
+  {
+    "id": "79ed99baece2",
+    "inmate": {
+      "id": "79ed99baece2",
+      "jail_id": "200021697",
+      "name": "Claytor, Michael Devin",
+      "charges": [
+        "TRAFFICKING IN DRUGS",
+        "POSSESSION OF CONTROLLED SUBSTANCE",
+        "POSSESSION OF CONTROLLED SUBSTANCE",
+        "TRAFFICKING IN DRUGS - SCHEDULE I, II",
+        "TRAFFICKING IN DRUGS",
+        "POSSESSION OF COCAINE",
+        "AGGRAVATED POSSESSION OF DRUGS",
+        "AGGRAVATED TRAFFICKING IN DRUGS",
+        "POSSESSION OF FENTANYL-RELATED COMPOUND",
+        "TRAFFICKING IN COCAINE",
+        "TRAFFICKING IN FENTANYL- RELATED COMPOUND"
+      ],
+      "book_date": "04/30/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/79ed99baece2.jpg",
+      "scraped_at": "2026-09-27T02:00:29.645073"
+    },
+    "post_text": "Recently booked:\n\nName: Claytor, Michael Devin\nBooked: 04/30/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): TRAFFICKING IN DRUGS, POSSESSION OF CONTROLLED SUBSTANCE, POSSESSION OF CONTROLLED SUBSTANCE, TRAFFICKING IN DRUGS - SCHEDULE I, II and others\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.840176",
+    "expires_at": "2026-09-28T02:00:29.840188",
+    "status": "discarded"
+  },
+  {
+    "id": "4fe7b5c86443",
+    "inmate": {
+      "id": "4fe7b5c86443",
+      "jail_id": "20131638",
+      "name": "Crowe, Harley Michael",
+      "charges": [
+        "FAILURE TO APPEAR / ATTEMPT- DRUGS"
+      ],
+      "book_date": "09/26/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/4fe7b5c86443.jpg",
+      "scraped_at": "2026-09-27T02:00:29.645659"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Crowe, Harley Michael\nBooked: 09/26/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR / ATTEMPT- DRUGS\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.850551",
+    "expires_at": "2026-09-28T02:00:29.850562",
+    "status": "discarded"
+  },
+  {
+    "id": "fa4f6002b217",
+    "inmate": {
+      "id": "fa4f6002b217",
+      "jail_id": "200021177",
+      "name": "Daniel, Joel Devon",
+      "charges": [
+        "PERSISTENT DISORDERLY CONDUCT",
+        "OBSTRUCTING OFFICIAL BUSINESS"
+      ],
+      "book_date": "09/22/2026",
+      "agency": "Martins Ferry Police Department",
+      "photo": "mugshots/fa4f6002b217.jpg",
+      "scraped_at": "2026-09-27T02:00:29.646244"
+    },
+    "post_text": "Public roster update:\n\nName: Daniel, Joel Devon\nBooked: 09/22/2026\nArresting Agency: Martins Ferry Police Department\nCharge(s): PERSISTENT DISORDERLY CONDUCT, OBSTRUCTING OFFICIAL BUSINESS\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.862234",
+    "expires_at": "2026-09-28T02:00:29.862246",
+    "status": "discarded"
+  },
+  {
+    "id": "600468c91c81",
+    "inmate": {
+      "id": "600468c91c81",
+      "jail_id": "20062871",
+      "name": "Davis, Jordan Evan",
+      "charges": [
+        "PROBATION VIOLATION",
+        "DRIVING UNDER SUSPENSION",
+        "DRIVING UNDER THE INFLUENCE"
+      ],
+      "book_date": "08/13/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/600468c91c81.jpg",
+      "scraped_at": "2026-09-27T02:00:29.646865"
+    },
+    "post_text": "New booking reported:\n\nName: Davis, Jordan Evan\nBooked: 08/13/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION VIOLATION, DRIVING UNDER SUSPENSION, DRIVING UNDER THE INFLUENCE (Operating a vehicle under the influence.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.872657",
+    "expires_at": "2026-09-28T02:00:29.872668",
+    "status": "discarded"
+  },
+  {
+    "id": "c7ae517471f8",
+    "inmate": {
+      "id": "c7ae517471f8",
+      "jail_id": "200021276",
+      "name": "Devault, Andrew Michael",
+      "charges": [
+        "FAILURE TO APPEAR/COMPLICITY",
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/c7ae517471f8.jpg",
+      "scraped_at": "2026-09-27T02:00:29.647461"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Devault, Andrew Michael\nBooked: 09/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR/COMPLICITY, FAILURE TO APPEAR, FAILURE TO APPEAR\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.886027",
+    "expires_at": "2026-09-28T02:00:29.886039",
+    "status": "discarded"
+  },
+  {
+    "id": "90fc2dc356ee",
+    "inmate": {
+      "id": "90fc2dc356ee",
+      "jail_id": "20091761",
+      "name": "Duff III, Roy Eugene",
+      "charges": [
+        "RAPE",
+        "CAPIAS"
+      ],
+      "book_date": "09/09/2026",
+      "agency": "Martins Ferry Police Department",
+      "photo": "mugshots/90fc2dc356ee.jpg",
+      "scraped_at": "2026-09-27T02:00:29.648268"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Duff III, Roy Eugene\nBooked: 09/09/2026\nArresting Agency: Martins Ferry Police Department\nCharge(s): RAPE, CAPIAS\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.901238",
+    "expires_at": "2026-09-28T02:00:29.901249",
+    "status": "discarded"
+  },
+  {
+    "id": "2747ae82768f",
+    "inmate": {
+      "id": "2747ae82768f",
+      "jail_id": "200020664",
+      "name": "Fisher Jr, Robert Jospeh",
+      "charges": [
+        "FAILURE TO APPEAR/ CHILD SUPPORT",
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/2747ae82768f.jpg",
+      "scraped_at": "2026-09-27T02:00:29.648887"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Fisher Jr, Robert Jospeh\nBooked: 09/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR/ CHILD SUPPORT, FAILURE TO APPEAR\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.913100",
+    "expires_at": "2026-09-28T02:00:29.913111",
+    "status": "discarded"
+  },
+  {
+    "id": "1ec1d3be073b",
+    "inmate": {
+      "id": "1ec1d3be073b",
+      "jail_id": "200021866",
+      "name": "Fogle, Joey Daniel",
+      "charges": [
+        "RAPE",
+        "RAPE",
+        "GROSS SEXUAL IMPOSITION",
+        "DISORDERLY CONDUCT",
+        "GROSS SEXUAL IMPOSITION"
+      ],
+      "book_date": "03/06/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/1ec1d3be073b.jpg",
+      "scraped_at": "2026-09-27T02:00:29.649485"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Fogle, Joey Daniel\nBooked: 03/06/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): RAPE, RAPE, GROSS SEXUAL IMPOSITION, DISORDERLY CONDUCT and others\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.923823",
+    "expires_at": "2026-09-28T02:00:29.923835",
+    "status": "discarded"
+  },
+  {
+    "id": "b4aea7a72f9f",
+    "inmate": {
+      "id": "b4aea7a72f9f",
+      "jail_id": "200022144",
+      "name": "Freeman, Joel Brown",
+      "charges": [
+        "DOMESTIC VIOLENCE"
+      ],
+      "book_date": "09/16/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/b4aea7a72f9f.jpg",
+      "scraped_at": "2026-09-27T02:00:29.650064"
+    },
+    "post_text": "Recently booked:\n\nName: Freeman, Joel Brown\nBooked: 09/16/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DOMESTIC VIOLENCE (Domestic violence offense under Ohio law.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.936225",
+    "expires_at": "2026-09-28T02:00:29.936237",
+    "status": "discarded"
+  },
+  {
+    "id": "711790ffda80",
+    "inmate": {
+      "id": "711790ffda80",
+      "jail_id": "200021722",
+      "name": "Fuller, Timotheus Mavry",
+      "charges": [
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "07/24/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/711790ffda80.jpg",
+      "scraped_at": "2026-09-27T02:00:29.650647"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Fuller, Timotheus Mavry\nBooked: 07/24/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.947156",
+    "expires_at": "2026-09-28T02:00:29.947167",
+    "status": "discarded"
+  },
+  {
+    "id": "e9c8eca7a99e",
+    "inmate": {
+      "id": "e9c8eca7a99e",
+      "jail_id": "200021358",
+      "name": "Griffin, Andrew Isaac",
+      "charges": [
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. MURDER",
+        "AGG. ARSON",
+        "AGG. BURGLARY"
+      ],
+      "book_date": "03/14/2025",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/e9c8eca7a99e.jpg",
+      "scraped_at": "2026-09-27T02:00:29.651275"
+    },
+    "post_text": "New booking reported:\n\nName: Griffin, Andrew Isaac\nBooked: 03/14/2025\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): AGG. MURDER, AGG. MURDER, AGG. MURDER, AGG. MURDER and others\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:29.958605",
+    "expires_at": "2026-09-28T02:00:29.958616",
+    "status": "discarded"
+  },
+  {
+    "id": "8030d6261550",
+    "inmate": {
+      "id": "8030d6261550",
+      "jail_id": "200017104",
+      "name": "Heslop Jr, Steven James",
+      "charges": [
+        "THEFT",
+        "THEFT"
+      ],
+      "book_date": "08/29/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/8030d6261550.jpg",
+      "scraped_at": "2026-09-27T02:00:29.651856"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Heslop Jr, Steven James\nBooked: 08/29/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): THEFT, THEFT (Theft-related offense.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.969265",
+    "expires_at": "2026-09-28T02:00:29.969274",
+    "status": "discarded"
+  },
+  {
+    "id": "3986dde5e9f9",
+    "inmate": {
+      "id": "3986dde5e9f9",
+      "jail_id": "20080747",
+      "name": "Hilliard, Linnie Lanier",
+      "charges": [
+        "POSSESSION OF DRUGS - SCHEDULE I, II",
+        "TRAFFICKING IN DRUGS - SCHEDULE I, II",
+        "TRAFFICKING IN DRUGS - SCHEDULE I, II",
+        "TRAFFICKING IN DRUGS - SCHEDULE I, II",
+        "TRAFFICKING IN DRUGS - SCH. III, IV, V",
+        "TRAFFICKING IN DRUGS - SCH. III, IV, V",
+        "POSSESSION OF DRUGS - SCHEDULE I, II",
+        "POSSESSION OF DRUGS - SCHEDULE I, II",
+        "NO CODE AVAILABLE//COMPLAINT FILED BY INMATE"
+      ],
+      "book_date": "01/09/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/3986dde5e9f9.jpg",
+      "scraped_at": "2026-09-27T02:00:29.652461"
+    },
+    "post_text": "Public roster update:\n\nName: Hilliard, Linnie Lanier\nBooked: 01/09/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): POSSESSION OF DRUGS - SCHEDULE I, II, TRAFFICKING IN DRUGS - SCHEDULE I, II, TRAFFICKING IN DRUGS - SCHEDULE I, II, TRAFFICKING IN DRUGS - SCHEDULE I, II and others\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:29.980932",
+    "expires_at": "2026-09-28T02:00:29.980944",
+    "status": "discarded"
+  },
+  {
+    "id": "f4e2ba97ede0",
+    "inmate": {
+      "id": "f4e2ba97ede0",
+      "jail_id": "20121870",
+      "name": "Hoffman, Brandon Russell",
+      "charges": [
+        "PROBATION VIOLATION",
+        "ATTEMPT"
+      ],
+      "book_date": "09/09/2026",
+      "agency": "Probation Department Common Pleas",
+      "photo": "mugshots/f4e2ba97ede0.jpg",
+      "scraped_at": "2026-09-27T02:00:29.653048"
+    },
+    "post_text": "Recently booked:\n\nName: Hoffman, Brandon Russell\nBooked: 09/09/2026\nArresting Agency: Probation Department Common Pleas\nCharge(s): PROBATION VIOLATION, ATTEMPT (Probation violation.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:29.993054",
+    "expires_at": "2026-09-28T02:00:29.993066",
+    "status": "discarded"
+  },
+  {
+    "id": "89224cb92154",
+    "inmate": {
+      "id": "89224cb92154",
+      "jail_id": "200019219",
+      "name": "Hood, Zachary Isaiah",
+      "charges": [
+        "PAROLE VIOLATION"
+      ],
+      "book_date": "08/11/2026",
+      "agency": "Adult Parole Authority",
+      "photo": "mugshots/89224cb92154.jpg",
+      "scraped_at": "2026-09-27T02:00:29.653650"
+    },
+    "post_text": "Public roster update:\n\nName: Hood, Zachary Isaiah\nBooked: 08/11/2026\nArresting Agency: Adult Parole Authority\nCharge(s): PAROLE VIOLATION\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.003960",
+    "expires_at": "2026-09-28T02:00:30.003969",
+    "status": "discarded"
+  },
+  {
+    "id": "84ae9e59dae6",
+    "inmate": {
+      "id": "84ae9e59dae6",
+      "jail_id": "961592",
+      "name": "Hunter, Christopher Daniel",
+      "charges": [
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR/CONFINE/RESTRAIN DOG",
+        "FAILURE TO APPEAR/REQUIREMENT TO PROPERLY RESTRAIN DOG"
+      ],
+      "book_date": "09/01/2026",
+      "agency": "Powhatan Police Department",
+      "photo": "mugshots/84ae9e59dae6.jpg",
+      "scraped_at": "2026-09-27T02:00:29.654259"
+    },
+    "post_text": "New booking reported:\n\nName: Hunter, Christopher Daniel\nBooked: 09/01/2026\nArresting Agency: Powhatan Police Department\nCharge(s): FAILURE TO APPEAR, FAILURE TO APPEAR, FAILURE TO APPEAR, FAILURE TO APPEAR and others\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.022851",
+    "expires_at": "2026-09-28T02:00:30.022862",
+    "status": "discarded"
+  },
+  {
+    "id": "cd25ab911494",
+    "inmate": {
+      "id": "cd25ab911494",
+      "jail_id": "200012878",
+      "name": "Jackson II, Michael James",
+      "charges": [
+        "PROBATION VIOLATION",
+        "CRIMINAL SIMULATION"
+      ],
+      "book_date": "08/19/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/cd25ab911494.jpg",
+      "scraped_at": "2026-09-27T02:00:29.654847"
+    },
+    "post_text": "New booking reported:\n\nName: Jackson II, Michael James\nBooked: 08/19/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION VIOLATION, CRIMINAL SIMULATION (Probation violation.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.033783",
+    "expires_at": "2026-09-28T02:00:30.033792",
+    "status": "discarded"
+  },
+  {
+    "id": "61c571062254",
+    "inmate": {
+      "id": "61c571062254",
+      "jail_id": "200021848",
+      "name": "Joyner, Antoine Keith",
+      "charges": [
+        "ATTEMPT-OBSTRUCTING OFFICAL BUSINESS",
+        "ATTEMPT-DRUG POSSESSION"
+      ],
+      "book_date": "08/06/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/61c571062254.jpg",
+      "scraped_at": "2026-09-27T02:00:29.655474"
+    },
+    "post_text": "Public roster update:\n\nName: Joyner, Antoine Keith\nBooked: 08/06/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): ATTEMPT-OBSTRUCTING OFFICAL BUSINESS, ATTEMPT-DRUG POSSESSION\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.046137",
+    "expires_at": "2026-09-28T02:00:30.046149",
+    "status": "discarded"
+  },
+  {
+    "id": "ac8a4ba0ff55",
+    "inmate": {
+      "id": "ac8a4ba0ff55",
+      "jail_id": "200021932",
+      "name": "Kenney, Gary Lee",
+      "charges": [
+        "DOMESTIC VIOLENCE"
+      ],
+      "book_date": "09/25/2026",
+      "agency": "St.Clairsville Police Department",
+      "photo": "mugshots/ac8a4ba0ff55.jpg",
+      "scraped_at": "2026-09-27T02:00:29.656077"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Kenney, Gary Lee\nBooked: 09/25/2026\nArresting Agency: St.Clairsville Police Department\nCharge(s): DOMESTIC VIOLENCE (Domestic violence offense under Ohio law.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.057406",
+    "expires_at": "2026-09-28T02:00:30.057418",
+    "status": "discarded"
+  },
+  {
+    "id": "570962f12fb9",
+    "inmate": {
+      "id": "570962f12fb9",
+      "jail_id": "200021191",
+      "name": "Kent, Zachary Anthony",
+      "charges": [
+        "BOND REVOCATION"
+      ],
+      "book_date": "09/23/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/570962f12fb9.jpg",
+      "scraped_at": "2026-09-27T02:00:29.656731"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Kent, Zachary Anthony\nBooked: 09/23/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): BOND REVOCATION\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.070003",
+    "expires_at": "2026-09-28T02:00:30.070014",
+    "status": "discarded"
+  },
+  {
+    "id": "bf0c81dc01d5",
+    "inmate": {
+      "id": "bf0c81dc01d5",
+      "jail_id": "20120646",
+      "name": "Kirk, Zachary Michael",
+      "charges": [
+        "FELONIOUS ASSAULT",
+        "AGG MENACING",
+        "RESISTING ARREST"
+      ],
+      "book_date": "09/20/2026",
+      "agency": "Barnesville Police Department",
+      "photo": "mugshots/bf0c81dc01d5.jpg",
+      "scraped_at": "2026-09-27T02:00:29.657726"
+    },
+    "post_text": "Recently booked:\n\nName: Kirk, Zachary Michael\nBooked: 09/20/2026\nArresting Agency: Barnesville Police Department\nCharge(s): FELONIOUS ASSAULT, AGG MENACING, RESISTING ARREST\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.081250",
+    "expires_at": "2026-09-28T02:00:30.081262",
+    "status": "discarded"
+  },
+  {
+    "id": "6b0af71ab470",
+    "inmate": {
+      "id": "6b0af71ab470",
+      "jail_id": "20131803",
+      "name": "Kyle, Jewan Steven",
+      "charges": [
+        "ILLEGAL MANUFACTURE OF DRUGS",
+        "POSSESSION OF A FENTANYL-RELATED COMPOUND",
+        "TRAFFICKING IN A FENTANYL-RELATED COMPOUND",
+        "POSSESSION OF CRIMINAL TOOLS",
+        "POSSESSION OF COCAINE"
+      ],
+      "book_date": "06/05/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/6b0af71ab470.jpg",
+      "scraped_at": "2026-09-27T02:00:29.658337"
+    },
+    "post_text": "Public roster update:\n\nName: Kyle, Jewan Steven\nBooked: 06/05/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): ILLEGAL MANUFACTURE OF DRUGS, POSSESSION OF A FENTANYL-RELATED COMPOUND, TRAFFICKING IN A FENTANYL-RELATED COMPOUND, POSSESSION OF CRIMINAL TOOLS and others\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.093691",
+    "expires_at": "2026-09-28T02:00:30.093702",
+    "status": "discarded"
+  },
+  {
+    "id": "b8b641f80f4a",
+    "inmate": {
+      "id": "b8b641f80f4a",
+      "jail_id": "200021934",
+      "name": "Ledford, Roland Lee",
+      "charges": [
+        "BOND REVOCATION"
+      ],
+      "book_date": "09/08/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/b8b641f80f4a.jpg",
+      "scraped_at": "2026-09-27T02:00:29.658926"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Ledford, Roland Lee\nBooked: 09/08/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): BOND REVOCATION\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.104795",
+    "expires_at": "2026-09-28T02:00:30.104805",
+    "status": "discarded"
+  },
+  {
+    "id": "e017c336ca02",
+    "inmate": {
+      "id": "e017c336ca02",
+      "jail_id": "20072278",
+      "name": "Lindsey, Zachary Leigh",
+      "charges": [
+        "PROBATION REVOCATION",
+        "PROBATION REVOCATION",
+        "FAILURE TO APPEAR",
+        "PROBATION VIOLATION",
+        "DISORDERLY CONDUCT"
+      ],
+      "book_date": "08/04/2026",
+      "agency": "Bridgeport Police Department",
+      "photo": "mugshots/e017c336ca02.jpg",
+      "scraped_at": "2026-09-27T02:00:29.659511"
+    },
+    "post_text": "Recently booked:\n\nName: Lindsey, Zachary Leigh\nBooked: 08/04/2026\nArresting Agency: Bridgeport Police Department\nCharge(s): PROBATION REVOCATION, PROBATION REVOCATION, FAILURE TO APPEAR, PROBATION VIOLATION and others (Probation violation.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.117385",
+    "expires_at": "2026-09-28T02:00:30.117397",
+    "status": "discarded"
+  },
+  {
+    "id": "38ca72efbe6f",
+    "inmate": {
+      "id": "38ca72efbe6f",
+      "jail_id": "200021354",
+      "name": "Loew, Aiden Michael",
+      "charges": [
+        "ASSAULT",
+        "AGG MENACING",
+        "AGG MENACING",
+        "UNDERAGE PERSONS OFFENSES"
+      ],
+      "book_date": "07/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/38ca72efbe6f.jpg",
+      "scraped_at": "2026-09-27T02:00:29.660111"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Loew, Aiden Michael\nBooked: 07/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): ASSAULT, AGG MENACING, AGG MENACING, UNDERAGE PERSONS OFFENSES\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.130463",
+    "expires_at": "2026-09-28T02:00:30.130490",
+    "status": "discarded"
+  },
+  {
+    "id": "aff6bbd6fc72",
+    "inmate": {
+      "id": "aff6bbd6fc72",
+      "jail_id": "200015258",
+      "name": "Lowe, Tyler Shane",
+      "charges": [
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "09/01/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/aff6bbd6fc72.jpg",
+      "scraped_at": "2026-09-27T02:00:29.660695"
+    },
+    "post_text": "New booking reported:\n\nName: Lowe, Tyler Shane\nBooked: 09/01/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION VIOLATION (Probation violation.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.148401",
+    "expires_at": "2026-09-28T02:00:30.148414",
+    "status": "discarded"
+  },
+  {
+    "id": "2b9fd213915c",
+    "inmate": {
+      "id": "2b9fd213915c",
+      "jail_id": "200021975",
+      "name": "Mata, Xavier Paul",
+      "charges": [
+        "DOMESTIC VIOLENCE",
+        "PROBATION VIOLATION",
+        "VIOLATION OF PROTECTION ORDER/CONSENT AG",
+        "RETALIATION",
+        "INTIMIDATION"
+      ],
+      "book_date": "07/16/2026",
+      "agency": "Bellaire Police Department",
+      "photo": "mugshots/2b9fd213915c.jpg",
+      "scraped_at": "2026-09-27T02:00:29.661535"
+    },
+    "post_text": "Recently booked:\n\nName: Mata, Xavier Paul\nBooked: 07/16/2026\nArresting Agency: Bellaire Police Department\nCharge(s): DOMESTIC VIOLENCE, PROBATION VIOLATION, VIOLATION OF PROTECTION ORDER/CONSENT AG, RETALIATION and others (Domestic violence offense under Ohio law.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.164287",
+    "expires_at": "2026-09-28T02:00:30.164298",
+    "status": "discarded"
+  },
+  {
+    "id": "abead8135dc5",
+    "inmate": {
+      "id": "abead8135dc5",
+      "jail_id": "200019712",
+      "name": "McAnnally, Mark Stuart",
+      "charges": [
+        "AGG.TRESPASS",
+        "BREAKING & ENTERING",
+        "THEFT (PETTY)",
+        "FAIL TO COMPLY W/ORDER OR SIGNAL OF POLI",
+        "CRIMINAL TRESPASS"
+      ],
+      "book_date": "08/07/2026",
+      "agency": "Bridgeport Police Department",
+      "photo": "mugshots/abead8135dc5.jpg",
+      "scraped_at": "2026-09-27T02:00:29.662148"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: McAnnally, Mark Stuart\nBooked: 08/07/2026\nArresting Agency: Bridgeport Police Department\nCharge(s): AGG.TRESPASS, BREAKING & ENTERING, THEFT (PETTY), FAIL TO COMPLY W/ORDER OR SIGNAL OF POLI and others (Theft-related offense.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.180338",
+    "expires_at": "2026-09-28T02:00:30.180350",
+    "status": "discarded"
+  },
+  {
+    "id": "6ea712ddda17",
+    "inmate": {
+      "id": "6ea712ddda17",
+      "jail_id": "20071880",
+      "name": "McGilton, Brent Levi",
+      "charges": [
+        "DRIVING UNDER THE INFLUENCE"
+      ],
+      "book_date": "09/18/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/6ea712ddda17.jpg",
+      "scraped_at": "2026-09-27T02:00:29.662745"
+    },
+    "post_text": "Public roster update:\n\nName: McGilton, Brent Levi\nBooked: 09/18/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DRIVING UNDER THE INFLUENCE (Operating a vehicle under the influence.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.192852",
+    "expires_at": "2026-09-28T02:00:30.192863",
+    "status": "discarded"
+  },
+  {
+    "id": "d2e6496ccbc4",
+    "inmate": {
+      "id": "d2e6496ccbc4",
+      "jail_id": "20040875",
+      "name": "Moore, Amos Henry",
+      "charges": [
+        "BOND REVOCATION"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/d2e6496ccbc4.jpg",
+      "scraped_at": "2026-09-27T02:00:29.663335"
+    },
+    "post_text": "New booking reported:\n\nName: Moore, Amos Henry\nBooked: 09/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): BOND REVOCATION\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.206426",
+    "expires_at": "2026-09-28T02:00:30.206437",
+    "status": "discarded"
+  },
+  {
+    "id": "0b9643969d36",
+    "inmate": {
+      "id": "0b9643969d36",
+      "jail_id": "20001899",
+      "name": "Murphy, Scott Allan",
+      "charges": [
+        "PERSISTENT DISORDERLY CONDUCT"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Shadyside Police Department",
+      "photo": "mugshots/0b9643969d36.jpg",
+      "scraped_at": "2026-09-27T02:00:29.663956"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Murphy, Scott Allan\nBooked: 09/21/2026\nArresting Agency: Shadyside Police Department\nCharge(s): PERSISTENT DISORDERLY CONDUCT\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.218742",
+    "expires_at": "2026-09-28T02:00:30.218754",
+    "status": "discarded"
+  },
+  {
+    "id": "21447e530b15",
+    "inmate": {
+      "id": "21447e530b15",
+      "jail_id": "20131467",
+      "name": "Peroni, Austin Stephen",
+      "charges": [
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "08/06/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/21447e530b15.jpg",
+      "scraped_at": "2026-09-27T02:00:29.664573"
+    },
+    "post_text": "Public roster update:\n\nName: Peroni, Austin Stephen\nBooked: 08/06/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION VIOLATION (Probation violation.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.231332",
+    "expires_at": "2026-09-28T02:00:30.231345",
+    "status": "discarded"
+  },
+  {
+    "id": "19f8fd4ac275",
+    "inmate": {
+      "id": "19f8fd4ac275",
+      "jail_id": "200022013",
+      "name": "Petrella, Rian Michael",
+      "charges": [
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "09/11/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/19f8fd4ac275.jpg",
+      "scraped_at": "2026-09-27T02:00:29.665160"
+    },
+    "post_text": "New booking reported:\n\nName: Petrella, Rian Michael\nBooked: 09/11/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.245697",
+    "expires_at": "2026-09-28T02:00:30.245709",
+    "status": "discarded"
+  },
+  {
+    "id": "de7faae54a8f",
+    "inmate": {
+      "id": "de7faae54a8f",
+      "jail_id": "20013013",
+      "name": "Posey, Michael Scott",
+      "charges": [
+        "PROBATION VIOLATION",
+        "PROBATION VIOLATION",
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "08/10/2026",
+      "agency": "Probation Office County Court",
+      "photo": "mugshots/de7faae54a8f.jpg",
+      "scraped_at": "2026-09-27T02:00:29.665752"
+    },
+    "post_text": "Recently booked:\n\nName: Posey, Michael Scott\nBooked: 08/10/2026\nArresting Agency: Probation Office County Court\nCharge(s): PROBATION VIOLATION, PROBATION VIOLATION, PROBATION VIOLATION (Probation violation.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.259526",
+    "expires_at": "2026-09-28T02:00:30.259538",
+    "status": "discarded"
+  },
+  {
+    "id": "e93eabb0cca3",
+    "inmate": {
+      "id": "e93eabb0cca3",
+      "jail_id": "200022138",
+      "name": "Reyes-Velasquez, Gilberto Antonio",
+      "charges": [
+        "DRIVING UNDER THE INFLUENCE",
+        "RECKLESS OPERATION OF VEHICLES",
+        "CONSUMPTION IN A MOTOR VEHICLE",
+        "FLEE / ELUDE OFFICER"
+      ],
+      "book_date": "09/13/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/e93eabb0cca3.jpg",
+      "scraped_at": "2026-09-27T02:00:29.666359"
+    },
+    "post_text": "Recently booked:\n\nName: Reyes-Velasquez, Gilberto Antonio\nBooked: 09/13/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): DRIVING UNDER THE INFLUENCE, RECKLESS OPERATION OF VEHICLES, CONSUMPTION IN A MOTOR VEHICLE, FLEE / ELUDE OFFICER (Operating a vehicle under the influence.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.271948",
+    "expires_at": "2026-09-28T02:00:30.271960",
+    "status": "discarded"
+  },
+  {
+    "id": "0d22e5b5d478",
+    "inmate": {
+      "id": "0d22e5b5d478",
+      "jail_id": "200013266",
+      "name": "Richter, Christopher Paul",
+      "charges": [
+        "PAROLE VIOLATION"
+      ],
+      "book_date": "08/18/2026",
+      "agency": "Adult Parole Authority",
+      "photo": "mugshots/0d22e5b5d478.jpg",
+      "scraped_at": "2026-09-27T02:00:29.666942"
+    },
+    "post_text": "New booking reported:\n\nName: Richter, Christopher Paul\nBooked: 08/18/2026\nArresting Agency: Adult Parole Authority\nCharge(s): PAROLE VIOLATION\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.285207",
+    "expires_at": "2026-09-28T02:00:30.285220",
+    "status": "discarded"
+  },
+  {
+    "id": "209e50d0acb6",
+    "inmate": {
+      "id": "209e50d0acb6",
+      "jail_id": "200021675",
+      "name": "Spence, Gary Benard",
+      "charges": [
+        "ATTEMPT TO COMMIT AN OFFENSE",
+        "IMPORTUNING",
+        "POSSESSION OF CRIMINAL TOOLS",
+        "DISSEMINATING MATTER HARMFUL TO JUVENILES"
+      ],
+      "book_date": "04/20/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/209e50d0acb6.jpg",
+      "scraped_at": "2026-09-27T02:00:29.667540"
+    },
+    "post_text": "New booking reported:\n\nName: Spence, Gary Benard\nBooked: 04/20/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): ATTEMPT TO COMMIT AN OFFENSE, IMPORTUNING, POSSESSION OF CRIMINAL TOOLS, DISSEMINATING MATTER HARMFUL TO JUVENILES\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.298072",
+    "expires_at": "2026-09-28T02:00:30.298084",
+    "status": "discarded"
+  },
+  {
+    "id": "c809f3818857",
+    "inmate": {
+      "id": "c809f3818857",
+      "jail_id": "200020459",
+      "name": "Stump, Scott Steven",
+      "charges": [
+        "PROBATION REVOCATION",
+        "PROBATION REVOCATION",
+        "PROBATION REVOCATION",
+        "PROBATION REVOCATION"
+      ],
+      "book_date": "08/13/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/c809f3818857.jpg",
+      "scraped_at": "2026-09-27T02:00:29.668153"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Stump, Scott Steven\nBooked: 08/13/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION REVOCATION, PROBATION REVOCATION, PROBATION REVOCATION, PROBATION REVOCATION (Probation violation.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.311836",
+    "expires_at": "2026-09-28T02:00:30.311848",
+    "status": "discarded"
+  },
+  {
+    "id": "aa4321ededbc",
+    "inmate": {
+      "id": "aa4321ededbc",
+      "jail_id": "200020542",
+      "name": "Teeters, Sevren Bryce",
+      "charges": [
+        "DOMESTIC VIOLENCE",
+        "PAROLE VIOLATION"
+      ],
+      "book_date": "08/01/2026",
+      "agency": "Bellaire Police Department",
+      "photo": "mugshots/aa4321ededbc.jpg",
+      "scraped_at": "2026-09-27T02:00:29.668742"
+    },
+    "post_text": "New booking reported:\n\nName: Teeters, Sevren Bryce\nBooked: 08/01/2026\nArresting Agency: Bellaire Police Department\nCharge(s): DOMESTIC VIOLENCE, PAROLE VIOLATION (Domestic violence offense under Ohio law.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.325186",
+    "expires_at": "2026-09-28T02:00:30.325198",
+    "status": "discarded"
+  },
+  {
+    "id": "71de75679aa4",
+    "inmate": {
+      "id": "71de75679aa4",
+      "jail_id": "961100",
+      "name": "Tingler, Eric Andrew",
+      "charges": [
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR",
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "08/28/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/71de75679aa4.jpg",
+      "scraped_at": "2026-09-27T02:00:29.669429"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Tingler, Eric Andrew\nBooked: 08/28/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR, FAILURE TO APPEAR, FAILURE TO APPEAR\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.344124",
+    "expires_at": "2026-09-28T02:00:30.344137",
+    "status": "discarded"
+  },
+  {
+    "id": "8a3dc258f2ee",
+    "inmate": {
+      "id": "8a3dc258f2ee",
+      "jail_id": "200022158",
+      "name": "Titus, Joshua Allan",
+      "charges": [
+        "DISORDERLY CONDUCT"
+      ],
+      "book_date": "09/27/2026",
+      "agency": "Barnesville Police Department",
+      "photo": null,
+      "scraped_at": "2026-09-27T02:00:29.669477"
+    },
+    "post_text": "Recently booked:\n\nName: Titus, Joshua Allan\nBooked: 09/27/2026\nArresting Agency: Barnesville Police Department\nCharge(s): DISORDERLY CONDUCT\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.358319",
+    "expires_at": "2026-09-28T02:00:30.358331",
+    "status": "pending"
+  },
+  {
+    "id": "4d9ef16493e7",
+    "inmate": {
+      "id": "4d9ef16493e7",
+      "jail_id": "200022104",
+      "name": "Valentino, Anthony Joseph",
+      "charges": [
+        "IMPORTUNING"
+      ],
+      "book_date": "09/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/4d9ef16493e7.jpg",
+      "scraped_at": "2026-09-27T02:00:29.670065"
+    },
+    "post_text": "Recently booked:\n\nName: Valentino, Anthony Joseph\nBooked: 09/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): IMPORTUNING\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.375950",
+    "expires_at": "2026-09-28T02:00:30.375962",
+    "status": "discarded"
+  },
+  {
+    "id": "409902188b6e",
+    "inmate": {
+      "id": "409902188b6e",
+      "jail_id": "200021854",
+      "name": "Valloric, Shawn Mark",
+      "charges": [
+        "BOND REVOCATION"
+      ],
+      "book_date": "08/24/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/409902188b6e.jpg",
+      "scraped_at": "2026-09-27T02:00:29.670652"
+    },
+    "post_text": "Public roster update:\n\nName: Valloric, Shawn Mark\nBooked: 08/24/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): BOND REVOCATION\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.390307",
+    "expires_at": "2026-09-28T02:00:30.390318",
+    "status": "discarded"
+  },
+  {
+    "id": "8803fa216ac7",
+    "inmate": {
+      "id": "8803fa216ac7",
+      "jail_id": "200022106",
+      "name": "Ware, David Owen",
+      "charges": [
+        "INDUCING PANIC",
+        "DOMESTIC VIOLENCE"
+      ],
+      "book_date": "08/21/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/8803fa216ac7.jpg",
+      "scraped_at": "2026-09-27T02:00:29.671244"
+    },
+    "post_text": "New booking reported:\n\nName: Ware, David Owen\nBooked: 08/21/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): INDUCING PANIC, DOMESTIC VIOLENCE (Domestic violence offense under Ohio law.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.403740",
+    "expires_at": "2026-09-28T02:00:30.403752",
+    "status": "discarded"
+  },
+  {
+    "id": "f18a9cb903e9",
+    "inmate": {
+      "id": "f18a9cb903e9",
+      "jail_id": "200015072",
+      "name": "Welker, Andrew Robert",
+      "charges": [
+        "PROBATION REVOCATION",
+        "DRIVING UNDER THE INFLUENCE"
+      ],
+      "book_date": "08/19/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/f18a9cb903e9.jpg",
+      "scraped_at": "2026-09-27T02:00:29.671842"
+    },
+    "post_text": "New booking reported:\n\nName: Welker, Andrew Robert\nBooked: 08/19/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION REVOCATION, DRIVING UNDER THE INFLUENCE (Operating a vehicle under the influence.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.418282",
+    "expires_at": "2026-09-28T02:00:30.418295",
+    "status": "discarded"
+  },
+  {
+    "id": "8db92e939a7c",
+    "inmate": {
+      "id": "8db92e939a7c",
+      "jail_id": "200018652",
+      "name": "Wood, Skyler Davis",
+      "charges": [
+        "THEFT (PETTY)"
+      ],
+      "book_date": "09/24/2026",
+      "agency": "Richland Township Police Department",
+      "photo": "mugshots/8db92e939a7c.jpg",
+      "scraped_at": "2026-09-27T02:00:29.672444"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Wood, Skyler Davis\nBooked: 09/24/2026\nArresting Agency: Richland Township Police Department\nCharge(s): THEFT (PETTY) (Theft-related offense.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.431255",
+    "expires_at": "2026-09-28T02:00:30.431277",
+    "status": "discarded"
+  },
+  {
+    "id": "9b59055cb080",
+    "inmate": {
+      "id": "9b59055cb080",
+      "jail_id": "200020572",
+      "name": "Bowman, Theresa Louise",
+      "charges": [
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "09/08/2026",
+      "agency": "Probation Department Common Pleas",
+      "photo": "mugshots/9b59055cb080.jpg",
+      "scraped_at": "2026-09-27T02:00:29.673103"
+    },
+    "post_text": "Recently booked:\n\nName: Bowman, Theresa Louise\nBooked: 09/08/2026\nArresting Agency: Probation Department Common Pleas\nCharge(s): PROBATION VIOLATION (Probation violation.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.445998",
+    "expires_at": "2026-09-28T02:00:30.446010",
+    "status": "discarded"
+  },
+  {
+    "id": "ff5e7b49ac89",
+    "inmate": {
+      "id": "ff5e7b49ac89",
+      "jail_id": "200022155",
+      "name": "Drake, Makayla J",
+      "charges": [
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "09/23/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/ff5e7b49ac89.jpg",
+      "scraped_at": "2026-09-27T02:00:29.673707"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Drake, Makayla J\nBooked: 09/23/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.458988",
+    "expires_at": "2026-09-28T02:00:30.459000",
+    "status": "discarded"
+  },
+  {
+    "id": "07c92b8533c5",
+    "inmate": {
+      "id": "07c92b8533c5",
+      "jail_id": "20020650",
+      "name": "Elliott, Karen Sue",
+      "charges": [
+        "ASSAULT ON POLICE OFFICER"
+      ],
+      "book_date": "09/14/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/07c92b8533c5.jpg",
+      "scraped_at": "2026-09-27T02:00:29.674290"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Elliott, Karen Sue\nBooked: 09/14/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): ASSAULT ON POLICE OFFICER\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.473608",
+    "expires_at": "2026-09-28T02:00:30.473620",
+    "status": "discarded"
+  },
+  {
+    "id": "88dc0d942afc",
+    "inmate": {
+      "id": "88dc0d942afc",
+      "jail_id": "200015100",
+      "name": "Giesey, Brittany Angelica",
+      "charges": [
+        "PROBATION VIOLATION",
+        "JUVENILE COURT"
+      ],
+      "book_date": "08/06/2026",
+      "agency": "Probation Department Common Pleas",
+      "photo": "mugshots/88dc0d942afc.jpg",
+      "scraped_at": "2026-09-27T02:00:29.674894"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Giesey, Brittany Angelica\nBooked: 08/06/2026\nArresting Agency: Probation Department Common Pleas\nCharge(s): PROBATION VIOLATION, JUVENILE COURT (Probation violation.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.486789",
+    "expires_at": "2026-09-28T02:00:30.486800",
+    "status": "discarded"
+  },
+  {
+    "id": "8127f5a947b7",
+    "inmate": {
+      "id": "8127f5a947b7",
+      "jail_id": "200019018",
+      "name": "Hughey, Kennedy Camille",
+      "charges": [
+        "FAILURE TO APPEAR"
+      ],
+      "book_date": "09/25/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/8127f5a947b7.jpg",
+      "scraped_at": "2026-09-27T02:00:29.675491"
+    },
+    "post_text": "Recently booked:\n\nName: Hughey, Kennedy Camille\nBooked: 09/25/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.500867",
+    "expires_at": "2026-09-28T02:00:30.500878",
+    "status": "discarded"
+  },
+  {
+    "id": "6ce204ad8a0c",
+    "inmate": {
+      "id": "6ce204ad8a0c",
+      "jail_id": "200022156",
+      "name": "Kisner, Alexandra Aaron",
+      "charges": [
+        "POSSESSION OF DRUG ABUSE INSTRUMENTS",
+        "PERSISTENT DISORDERLY CONDUCT"
+      ],
+      "book_date": "09/25/2026",
+      "agency": "Martins Ferry Police Department",
+      "photo": "mugshots/6ce204ad8a0c.jpg",
+      "scraped_at": "2026-09-27T02:00:29.676101"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Kisner, Alexandra Aaron\nBooked: 09/25/2026\nArresting Agency: Martins Ferry Police Department\nCharge(s): POSSESSION OF DRUG ABUSE INSTRUMENTS, PERSISTENT DISORDERLY CONDUCT\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.526462",
+    "expires_at": "2026-09-28T02:00:30.526474",
+    "status": "discarded"
+  },
+  {
+    "id": "7858045d2ddc",
+    "inmate": {
+      "id": "7858045d2ddc",
+      "jail_id": "20030917",
+      "name": "Mirides, Alisha Renay",
+      "charges": [
+        "PROBATION VIOLATION",
+        "DRUG ABUSE"
+      ],
+      "book_date": "08/05/2026",
+      "agency": "Probation Department Common Pleas",
+      "photo": "mugshots/7858045d2ddc.jpg",
+      "scraped_at": "2026-09-27T02:00:29.676926"
+    },
+    "post_text": "Public roster update:\n\nName: Mirides, Alisha Renay\nBooked: 08/05/2026\nArresting Agency: Probation Department Common Pleas\nCharge(s): PROBATION VIOLATION, DRUG ABUSE (Probation violation.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.540854",
+    "expires_at": "2026-09-28T02:00:30.540880",
+    "status": "discarded"
+  },
+  {
+    "id": "50cca7fbbdf5",
+    "inmate": {
+      "id": "50cca7fbbdf5",
+      "jail_id": "20101030",
+      "name": "Monroe, Samantha Jo",
+      "charges": [
+        "BOND REVOCATION"
+      ],
+      "book_date": "09/15/2026",
+      "agency": "Probation Office County Court",
+      "photo": "mugshots/50cca7fbbdf5.jpg",
+      "scraped_at": "2026-09-27T02:00:29.677539"
+    },
+    "post_text": "New booking reported:\n\nName: Monroe, Samantha Jo\nBooked: 09/15/2026\nArresting Agency: Probation Office County Court\nCharge(s): BOND REVOCATION\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.563836",
+    "expires_at": "2026-09-28T02:00:30.563861",
+    "status": "discarded"
+  },
+  {
+    "id": "404dabf302ad",
+    "inmate": {
+      "id": "404dabf302ad",
+      "jail_id": "2131744",
+      "name": "Nieman, Kristen Ann",
+      "charges": [
+        "TRAFFICKING IN DRUGS - SCHEDULE I, II",
+        "THEFT (PETTY)",
+        "THEFT (PETTY)"
+      ],
+      "book_date": "09/23/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/404dabf302ad.jpg",
+      "scraped_at": "2026-09-27T02:00:29.678158"
+    },
+    "post_text": "Recently booked:\n\nName: Nieman, Kristen Ann\nBooked: 09/23/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): TRAFFICKING IN DRUGS - SCHEDULE I, II, THEFT (PETTY), THEFT (PETTY) (Theft-related offense.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.585938",
+    "expires_at": "2026-09-28T02:00:30.585963",
+    "status": "discarded"
+  },
+  {
+    "id": "23ad6af4dafe",
+    "inmate": {
+      "id": "23ad6af4dafe",
+      "jail_id": "200022083",
+      "name": "Palmer, Autum Sky",
+      "charges": [
+        "AGG. MURDER",
+        "AGGRAVATED MURDER"
+      ],
+      "book_date": "07/31/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/23ad6af4dafe.jpg",
+      "scraped_at": "2026-09-27T02:00:29.679142"
+    },
+    "post_text": "Recently booked:\n\nName: Palmer, Autum Sky\nBooked: 07/31/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): AGG. MURDER, AGGRAVATED MURDER\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.608374",
+    "expires_at": "2026-09-28T02:00:30.608386",
+    "status": "discarded"
+  },
+  {
+    "id": "b2c43bedd643",
+    "inmate": {
+      "id": "b2c43bedd643",
+      "jail_id": "20060415",
+      "name": "Patterson, Heather Ann",
+      "charges": [
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "09/22/2026",
+      "agency": "Probation Office County Court",
+      "photo": "mugshots/b2c43bedd643.jpg",
+      "scraped_at": "2026-09-27T02:00:29.680007"
+    },
+    "post_text": "Recently booked:\n\nName: Patterson, Heather Ann\nBooked: 09/22/2026\nArresting Agency: Probation Office County Court\nCharge(s): PROBATION VIOLATION (Probation violation.)\n\nThis information comes from public records. An arrest is not a conviction. Charges may be reduced or dismissed.",
+    "created_at": "2026-09-27T02:00:30.632728",
+    "expires_at": "2026-09-28T02:00:30.632739",
+    "status": "discarded"
+  },
+  {
+    "id": "16b3278362a2",
+    "inmate": {
+      "id": "16b3278362a2",
+      "jail_id": "200022120",
+      "name": "Stanley, Brittany Marie",
+      "charges": [
+        "FAILURE TO APPEAR/THEFT"
+      ],
+      "book_date": "09/02/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/16b3278362a2.jpg",
+      "scraped_at": "2026-09-27T02:00:29.680608"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: Stanley, Brittany Marie\nBooked: 09/02/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR/THEFT (Theft-related offense.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.648184",
+    "expires_at": "2026-09-28T02:00:30.648196",
+    "status": "discarded"
+  },
+  {
+    "id": "5ee0c14aaab4",
+    "inmate": {
+      "id": "5ee0c14aaab4",
+      "jail_id": "200020579",
+      "name": "Stone-Knight, Alyscia Renee",
+      "charges": [
+        "FAILURE TO APPEAR - ATTEMPTED ILLEGAL CONVEYANCE"
+      ],
+      "book_date": "09/17/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/5ee0c14aaab4.jpg",
+      "scraped_at": "2026-09-27T02:00:29.681204"
+    },
+    "post_text": "New booking reported:\n\nName: Stone-Knight, Alyscia Renee\nBooked: 09/17/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): FAILURE TO APPEAR - ATTEMPTED ILLEGAL CONVEYANCE\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.663342",
+    "expires_at": "2026-09-28T02:00:30.663354",
+    "status": "discarded"
+  },
+  {
+    "id": "21a1b0e06206",
+    "inmate": {
+      "id": "21a1b0e06206",
+      "jail_id": "200012843",
+      "name": "West, Jill Lynn",
+      "charges": [
+        "PROBATION REVOCATION",
+        "DOMESTIC VIOLENCE"
+      ],
+      "book_date": "08/12/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/21a1b0e06206.jpg",
+      "scraped_at": "2026-09-27T02:00:29.681800"
+    },
+    "post_text": "New entry on the Belmont County jail roster:\n\nName: West, Jill Lynn\nBooked: 08/12/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION REVOCATION, DOMESTIC VIOLENCE (Domestic violence offense under Ohio law.)\n\nPublic record information only. Arrest does not equal guilt. All persons are presumed innocent until proven guilty in a court of law.",
+    "created_at": "2026-09-27T02:00:30.677129",
+    "expires_at": "2026-09-28T02:00:30.677140",
+    "status": "discarded"
+  },
+  {
+    "id": "aaca0a35ec3b",
+    "inmate": {
+      "id": "aaca0a35ec3b",
+      "jail_id": "200021119",
+      "name": "Williams, Kylie Marie",
+      "charges": [
+        "PROBATION VIOLATION"
+      ],
+      "book_date": "08/26/2026",
+      "agency": "Belmont County Sheriff's Office",
+      "photo": "mugshots/aaca0a35ec3b.jpg",
+      "scraped_at": "2026-09-27T02:00:29.682436"
+    },
+    "post_text": "Public roster update:\n\nName: Williams, Kylie Marie\nBooked: 08/26/2026\nArresting Agency: Belmont County Sheriff's Office\nCharge(s): PROBATION VIOLATION (Probation violation.)\n\nSourced from the Belmont County Sheriff public roster. An arrest is not a conviction.",
+    "created_at": "2026-09-27T02:00:30.692058",
+    "expires_at": "2026-09-28T02:00:30.692069",
+    "status": "discarded"
+  }
+]
